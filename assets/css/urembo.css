@@ -1,0 +1,11 @@
+h2{
+    color:chartreuse;
+}
+th,td{
+    border: 2px solid chartreuse;
+    padding: 10px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
